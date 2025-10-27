@@ -1,0 +1,37 @@
+{
+  "1185480664611569684": {
+    "phase": "focus",
+    "focus": 25,
+    "short_break": 5,
+    "long_break": 15,
+    "cycles": 4,
+    "current_cycle": 1,
+    "started_at": 1761466469.9187198,
+    "ends_at": 1761467969.9187198,
+    "owner_id": 1411554415118258297
+  },
+  "1431889877754052739": {
+    "phase": "focus",
+    "focus": 5,
+    "short_break": 5,
+    "long_break": 15,
+    "cycles": 4,
+    "current_cycle": 2,
+    "started_at": 1761490963.2879434,
+    "ends_at": 1761491866.5386071,
+    "paused": false,
+    "owner_id": 1411554415118258297
+  },
+  "1432205808195604520": {
+    "phase": "focus",
+    "focus": 25,
+    "short_break": 5,
+    "long_break": 15,
+    "cycles": 1,
+    "current_cycle": 1,
+    "started_at": 1761534873.899678,
+    "ends_at": 1761536373.899678,
+    "paused": false,
+    "owner_id": 1411554415118258297
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "1411554415118258297": {
+    "xp": 15,
+    "streak": 0,
+    "todos": [],
+    "pomos_completed": 1,
+    "achievements": [],
+    "presets": [],
+    "focus_log": [
+      1761491263
+    ],
+    "coins": 0,
+    "voice": {
+      "enabled": false,
+      "voice_channel_id": 1091283798441857107,
+      "sounds": {
+        "session_start": "C:\\Users\\Admin\\CascadeProjects\\AuroraFocus\\music\\session _start.mp3",
+        "focus_start": "C:\\Users\\Admin\\CascadeProjects\\AuroraFocus\\music\\session _start.mp3",
+        "break_start": "C:\\Users\\Admin\\CascadeProjects\\AuroraFocus\\music\\Break_start.mp3",
+        "session_end": "C:\\Users\\Admin\\CascadeProjects\\AuroraFocus\\music\\session_end.mp3",
+        "react_warning": "C:\\Users\\Admin\\CascadeProjects\\AuroraFocus\\music\\react_warning.mp3"
+      }
+    },
+    "monthly_xp": 0,
+    "theme": "solar",
+    "afk_strikes": 0,
+    "pending_ack": {},
+    "last_focus_ts": 1761491263
+  }
+}
